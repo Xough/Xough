@@ -10,4 +10,4 @@ I'm Hugo, a 18 years old future web developer from France.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xough)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
-- [Nathaniel#7951](./) on Discord
+- [Nathaniel#7951](discordapp.com/users/Nathaniel#7951) on Discord
