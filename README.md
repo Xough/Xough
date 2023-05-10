@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Xough
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hey! 👋
+I'm Hugo, a 18 years old future web developer from France.
 
-<!---
-Xough/Xough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Skills
+- 👨‍💻 HTML, CSS, JS
+- ⚙️ C, Python
+
+## STATS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xough)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+- [Nathaniel#7951](./) on Discord
