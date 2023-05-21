@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Hugo, a 18 years old future web developer from France.
+I'm Hugo, a 18 years old developer from France.
 
 
 ## Skills
